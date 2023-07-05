@@ -1,3 +1,4 @@
+![](wc.svg)
 # Hello, we are 1In1B 👋
 
 We are a remote technology organisation committed to building best open-source softwares.
