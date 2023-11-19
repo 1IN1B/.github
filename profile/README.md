@@ -1,6 +1,5 @@
 ![](wc.svg)
-# Hello, we are 1IN1B 👋
-
-We are a remote technology organisation committed to building best open-source softwares.
-
-We also aim to provide a platform for aspiring developers to work on real life projects and get hands on experience with software development.
+# Who are we?
+We are a Remote company who develops Hardware and software solutions for our clients. 
+We work in space of Automation, IOT, Robotics and Backend development. 
+We also aim to provide a platform for students to gain hands on experience on real ife projects. 
