@@ -1,2 +1,2 @@
 # ___WE STICH THE WEB___
- ___AT 1IN1B, WE DEVELOP PROFITABLE APPS FOR WEB, DESKTOP AND MOBILE___
+ ___We make software solutions for your business needs. We build Webiste, fullstack, Mobile Applications, backend Applications and systems.___
